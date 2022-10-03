@@ -1,4 +1,4 @@
 # Git_Course
-Git Tutorial
+Applying Git Tutorial
 ## Git Tutorial
 
